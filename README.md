@@ -35,6 +35,7 @@ After Encrypting each individual module the hashed module then stores itself int
 # Credit
 
 This package-lock.json, package.json, Encryption.java, Decryption.java were adapted from the following article which uses JSON & Java: 
+
 https://hackernoon.com/learn-blockchains-by-building-one-117428612f46?gi=89cd42f5e67b
 https://www.veracode.com/blog/research/encryption-and-decryption-java-cryptography
 
