@@ -1,3 +1,5 @@
+
+@Aashutosh Mallik
 {
   "name": "Data-Distribution-in-a-Blockchain",
   "version": "1.0.0",
