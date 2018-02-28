@@ -1,0 +1,28 @@
+{
+  "name": "Data-Distribution-in-a-Blockchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashumallik/Data-Distribution-in-a-Blockchain.git"
+  },
+  "author": "ashumallik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashumallik/Data-Distribution-in-a-Blockchain/issues"
+  },
+  "homepage": "https://github.com/ashumallik/Data-Distribution-in-a-Blockchain#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "uuid4": "^1.0.0"
+  },
+  "engines": {
+    "node": "8.9.4",
+    "npm": "5.6.0"
+  }
+}
