@@ -2,6 +2,8 @@ import huffman
 import bitstring
 from bitstring import BitArray
 
+@Aashutosh Mallik
+
 myfile = open("foo.txt","r") # open file
 allofthefile = myfile.read() # save file to a variable
 myfile.close() # close the file we dont need it anymore
