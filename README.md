@@ -34,4 +34,4 @@ After Encrypting each individual module the hashed module then stores itself int
 
 # Credit
 
-This package-lock.json and package.json were adapted from the following article which uses Python: https://hackernoon.com/learn-blockchains-by-building-one-117428612f46?gi=89cd42f5e67b
+This package-lock.json and package.json were adapted from the following article which uses JSON: https://hackernoon.com/learn-blockchains-by-building-one-117428612f46?gi=89cd42f5e67b
