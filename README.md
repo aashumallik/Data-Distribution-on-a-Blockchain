@@ -5,14 +5,17 @@ Data splitting &amp; distribution using asynchronous programming into a Blockcha
 # File Splitter
 
 https://github.com/ashumallik/Data-Distribution-in-a-Blockchain/blob/master/File-Splitter.java
+
 File Splits after reaching the threshold of 2000 lines
 
 # Compression
 
 https://github.com/ashumallik/Data-Distribution-in-a-Blockchain/blob/master/Compression.py
+
 Compresses each individual file created by File Splitter
 
 # Machine Learning (Neural Net) - Feature
 
 https://github.com/ashumallik/Data-Distribution-in-a-Blockchain/blob/master/NeuralNet.py
+
 Takes the compressed and uncompressed file and trains the Neural Net to optimize tthe platform
