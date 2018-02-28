@@ -31,3 +31,7 @@ After optimizing the platform using the Neural Net the Data then goes through th
 https://github.com/ashumallik/Data-Distribution-in-a-Blockchain/blob/master/Blockchain.js
 
 After Encrypting each individual module the hashed module then stores itself into a Blockchain
+
+# Credit
+
+This package-lock.json and package.json were adapted from the following article which uses Python: article
