@@ -1,2 +1,2 @@
 # Data-Distribution-in-a-Blockchain
-Data splitting &amp; distribution using asynchronous programming into a Blockchain
+Data splitting &amp; distribution using asynchronous programming into a Blockchain. Takes an input of a file, splits the file using the File-Splitter wriiten in java. After Splitting the file takes the individual file and passes through the compression engine. After Compressing each split file the File then passes through the Neural Net to optimize the platform. After the Neural Net is trained the data is then transferred into Blockchain.
