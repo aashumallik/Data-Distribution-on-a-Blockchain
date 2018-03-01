@@ -18,7 +18,7 @@ Compresses each individual file created by File Splitter
 
 https://github.com/ashumallik/Data-Distribution-in-a-Blockchain/blob/master/NeuralNet.py
 
-Our Neural Netwwork is built on top of the auto-encoder architecture which works flawlessly to identify patterns in user given datase. We also use the Neural Net to build a dictionary for lossless compression of data using the Huffman Compression Algorithm.
+Our Neural Netwwork is built on top of the auto-encoder architecture which works flawlessly to identify patterns in user given dataset. We also use the Neural Net to build a dictionary for lossless compression of data using the Huffman Compression Algorithm.
 
 # Hash (Encryption) 
 
