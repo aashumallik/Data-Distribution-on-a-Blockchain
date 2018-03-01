@@ -8,7 +8,7 @@ https://github.com/ashumallik/Data-Distribution-in-a-Blockchain/blob/master/File
 
 File Splits after reaching the threshold of 2000 lines
 
-# Lossless Compression (Huffman Compreeion Algorithm)
+# Lossless Compression (Huffman Compression Algorithm)
 
 https://github.com/ashumallik/Data-Distribution-in-a-Blockchain/blob/master/Compression.py
 
