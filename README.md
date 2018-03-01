@@ -18,7 +18,7 @@ Compresses each individual file created by File Splitter
 
 https://github.com/ashumallik/Data-Distribution-in-a-Blockchain/blob/master/NeuralNet.py
 
-Takes the compressed and uncompressed file and trains the Neural Net to optimize tthe platform
+Takes the compressed and uncompressed file and trains the Neural Net to optimize the platform
 
 # Hash (Encryption) 
 
