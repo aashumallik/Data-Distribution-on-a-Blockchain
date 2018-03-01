@@ -8,7 +8,7 @@ https://github.com/ashumallik/Data-Distribution-in-a-Blockchain/blob/master/File
 
 File Splits after reaching the threshold of 2000 lines
 
-# Lossless Compression (Huffman Compression Algorithm)
+# Lossless Compression 
 
 https://github.com/ashumallik/Data-Distribution-in-a-Blockchain/blob/master/Compression.py
 
@@ -18,7 +18,7 @@ Compresses each individual file created by File Splitter
 
 https://github.com/ashumallik/Data-Distribution-in-a-Blockchain/blob/master/NeuralNet.py
 
-Our Neural Netwwork is built on top of the auto-encoder architecture which works flawlessly to identify pattern recognition and also to build a dictionary for lossless compression of data.
+Our Neural Netwwork is built on top of the auto-encoder architecture which works flawlessly to identify patterns in user given datase. We also use the Neural Net to build a dictionary for lossless compression of data using the Huffman Compression Algorithm.
 
 # Hash (Encryption) 
 
