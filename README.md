@@ -1,6 +1,6 @@
 # Overview
 
-Data splitting &amp; distribution using asynchronous programming into a Blockchain. The Platform takes an input of a file from a user and splits the file using the File-Splitter written in java. The platform then passes all of the individual files through a compression engine written in python (Compression.py) depending on the type of the file. After Compressing each file the platform then passes the files through an Artificial Neural Net(Neural-Net.py) to train the platform by analyzing patterns in the user given dataset . After the Neural Net is trained the data is then transferred into Blockchain (Blockchain.js).
+Data splitting &amp; distribution using asynchronous programming into a Blockchain. The Platform takes an input of a file from a user and splits the file using the File-Splitter written in java. The platform then passes all of the individual files through a compression engine written in python (Compression.py) depending on the type of the file. After Compressing each file the platform then passes the files through an Artificial Neural Net(Neural-Net.py) to train the platform by analyzing patterns in the user given dataset . After the Neural Net is trained the files are then transferred into a Blockchain (Blockchain.js).
 
 # File Splitter
 
